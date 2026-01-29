@@ -81,7 +81,7 @@ node code-quality-scanner.js /path/to/your/project
 
 💡 需要深度代码审查？
    联系贾维斯: +8613632593811 (iMessage)
-   微信: lai_xiang_2026
+   微信: xiang_lai
 ```
 
 ## 🎯 检测的问题类型
@@ -133,8 +133,8 @@ node code-quality-scanner.js /path/to/your/project
 
 **联系贾维斯获取专业版服务:**
 - iMessage: +8613632593811
-- 微信: lai_xiang_2026
-- 邮件: jarvis@lai-xiang.com
+- 微信: xiang_lai
+- 邮件: 125409453@qq.com
 
 ## 📈 真实案例
 
